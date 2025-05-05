@@ -245,6 +245,7 @@ a {
   position: relative;
   bottom: 110px;
 
+
 }
 
 
@@ -272,6 +273,7 @@ a {
   position: relative;
   bottom: 300px;
   cursor: pointer;
+ 
 }
 
 
@@ -293,7 +295,7 @@ a {
   background-color: #fec86a;
 }
 
-.skill-card img {
+.skill-card img{
   height: 7.5vw;
   width: 7.5vw;
   object-fit: contain;
